@@ -1,0 +1,8 @@
+[use]
+	name = nirvash
+[user]
+	name = user2
+	email = <jmayta@candwi.com>
+[name]
+	use = nirvash
+	email = <nirvash@demo>
