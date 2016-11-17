@@ -27,7 +27,7 @@
 export LANG=$(locale -uU)
 
 # *This file is not read by bash(1) if ~/.bash_profile or ~/.bash_login
-# *exists.
+# *existimosssssss.
 #
 # *if running bash
 if [ -n "${BASH_VERSION}" ]; then
