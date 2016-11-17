@@ -21,18 +21,18 @@
 # would be benificial to all, please feel free to send
 # a patch to the cygwin mailing list.
 
-# User dependent .profile file
+# *User dependent .profile file
 
-# Set user-defined locale
+# *Set user-defined locale
 export LANG=$(locale -uU)
 
-# This file is not read by bash(1) if ~/.bash_profile or ~/.bash_login
-# exists.
+# *This file is not read by bash(1) if ~/.bash_profile or ~/.bash_login
+# *exists.
 #
-# if running bash
+# *if running bash
 if [ -n "${BASH_VERSION}" ]; then
   if [ -f "${HOME}/.bashrc" ]; then
     source "${HOME}/.bashrc"
   fi
 fi
-modificacion demo
+**modificacion demo
